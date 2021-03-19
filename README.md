@@ -2,7 +2,7 @@
 
 Front end of face detection app
 
-Integrated with ranking function hosted on AWS Lambda
+Built with React and integrated with a ranking function hosted on AWS Lambda
 
 Back end is running on a docker container
 
